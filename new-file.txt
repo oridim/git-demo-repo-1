@@ -1,1 +1,1 @@
-I am a new file with new content!
+I am a new file with new and modified content!
