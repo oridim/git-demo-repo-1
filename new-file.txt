@@ -1,5 +1,5 @@
 header content!
 
-I am a new file with some weird content!
+I am a new file with some other content!
 
 footer content!
