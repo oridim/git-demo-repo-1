@@ -2,4 +2,6 @@ header content!
 
 I am a new file with some other content!
 
+Some content was added here!
+
 footer content!
